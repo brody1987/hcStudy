@@ -1,0 +1,10 @@
+# Visual Studio 로컬 설정 파일
+.vs/
+
+# OS 생성 파일
+Thumbs.db
+.DS_Store
+
+# (옵션) 나중에 라이브러리를 사용하게 된다면 추가될 항목
+node_modules/
+dist/
